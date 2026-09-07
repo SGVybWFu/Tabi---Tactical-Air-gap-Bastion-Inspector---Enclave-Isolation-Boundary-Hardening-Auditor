@@ -1,3 +1,27 @@
+<p align="center">
+  <img src="TABILogo.ico" alt="TABI Logo" width="160">
+</p>
+
+<h1 align="center">TABI — Tactical Air-gap & Bastion Inspector</h1>
+
+<p align="center">
+  <strong>Zero-Dependency Enclave Isolation & Boundary Hardening Auditor</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Release-v1.0-blue?style=flat-square" alt="Version">
+  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License">
+  <img src="https://img.shields.io/badge/Python-3.7+-yellow?style=flat-square&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey?style=flat-square" alt="Platform">
+  <img src="https://img.shields.io/badge/Security-Air--Gap%20Hardened-red?style=flat-square" alt="Security">
+</p>
+
+<p align="center">
+  <a href="README_PL.md">🇵🇱 Przeczytaj dokumentację po polsku</a> •
+  <a href="https://github.com/SGVybWFu/tabi/releases/latest">📦 Pobierz gotowy program (.exe)</a>
+</p>
+
+---
 # **TABI — Tactical Air-gap & Bastion Inspector (v1.0)**
 
 > **Enclave Isolation & Boundary Hardening Auditor**

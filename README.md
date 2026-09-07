@@ -18,7 +18,8 @@
 
 <p align="center">
   <a href="README_PL.md">🇵🇱 Przeczytaj dokumentację po polsku</a> •
-*Dual-platform (Windows 7–11 & Linux) | Zero External Dependencies | Military & High-Assurance Enclaves*
+</p>
+  *Dual-platform (Windows 7–11 & Linux) | Zero External Dependencies | Military & High-Assurance Enclaves*
 </p>
 
 ## **🎯 Target Environments & Operational Context**

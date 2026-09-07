@@ -21,11 +21,6 @@
   <a href="https://github.com/SGVybWFu/tabi/releases/latest">📦 Pobierz gotowy program (.exe)</a>
 </p>
 
----
-# **TABI — Tactical Air-gap & Bastion Inspector (v1.0)**
-
-> **Enclave Isolation & Boundary Hardening Auditor**
-
 > *Dual-platform (Windows 7–11 & Linux) | Zero External Dependencies | Military & High-Assurance Enclaves*
 
 ## **🎯 Target Environments & Operational Context**

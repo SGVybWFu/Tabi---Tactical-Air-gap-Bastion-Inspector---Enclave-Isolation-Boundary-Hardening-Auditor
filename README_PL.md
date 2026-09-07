@@ -1,6 +1,6 @@
-# **TABI — Taktyczny Inspektor Bastionów i Stref Air-gap (v1.0)**
+# **TABI — Tactical Air-gap & Bastion Inspector (v1.0)**
 
-> **Audytor Izolacji Enklawy i Szczelności Reguł Brzegowych**
+> **Enclave Isolation & Boundary Hardening Auditor**
 
 > *Zero Zależności Zewnętrznych (Zero-Dependency) | Kompatybilny z Windows 7–11 oraz Linux | Sektor Obronny i Środowiska Podwyższonego Rygoru*
 

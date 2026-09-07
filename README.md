@@ -16,7 +16,11 @@
   <img src="https://img.shields.io/badge/Security-Air--Gap%20Hardened-red?style=flat-square" alt="Security">
 </p>
 
+<p align="center">
+  
 > *Dual-platform (Windows 7–11 & Linux) | Zero External Dependencies | Military & High-Assurance Enclaves*
+
+</p>
 
 ## **🎯 Target Environments & Operational Context**
 

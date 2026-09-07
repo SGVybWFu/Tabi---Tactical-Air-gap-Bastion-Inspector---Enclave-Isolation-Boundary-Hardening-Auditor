@@ -16,11 +16,6 @@
   <img src="https://img.shields.io/badge/Security-Air--Gap%20Hardened-red?style=flat-square" alt="Security">
 </p>
 
-<p align="center">
-  <a href="README_PL.md">🇵🇱 Przeczytaj dokumentację po polsku</a> •
-  <a href="https://github.com/SGVybWFu/tabi/releases/latest](https://github.com/SGVybWFu/Tabi---Tactical-Air-gap-Bastion-Inspector---Enclave-Isolation-Boundary-Hardening-Auditor/releases/tag/v1.0">📦 Pobierz gotowy program (.exe)</a>
-</p>
-
 > *Dual-platform (Windows 7–11 & Linux) | Zero External Dependencies | Military & High-Assurance Enclaves*
 
 ## **🎯 Target Environments & Operational Context**
